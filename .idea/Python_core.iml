@@ -4,5 +4,8 @@
     <content url="file://$MODULE_DIR$" />
     <orderEntry type="jdk" jdkName="Python 3.14 (Python_core)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="Class2Messages" />
+    <orderEntry type="module" module-name="PlayWright" />
+    <orderEntry type="module" module-name="Notes" />
   </component>
 </module>
